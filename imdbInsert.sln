@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "imdbInsert", "imdbInsert\imdbInsert.csproj", "{7099A77C-7130-4A77-815C-6E334850C08D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7099A77C-7130-4A77-815C-6E334850C08D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7099A77C-7130-4A77-815C-6E334850C08D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7099A77C-7130-4A77-815C-6E334850C08D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7099A77C-7130-4A77-815C-6E334850C08D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC9DB92D-9BCE-41BE-BA0D-1CDB37637574}
+	EndGlobalSection
+EndGlobal
